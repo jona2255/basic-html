@@ -6,13 +6,13 @@ html body {
   background-color: rgba(183, 255, 255, 0.418);
 }
 
-header{
+header {
 
   padding: 5px;
   background-color: rgba(0, 250, 250, 0.568);
 }
 
-header li{
+header li  {
 
   display: inline;
   font-size: large;
@@ -36,7 +36,7 @@ h2 {
   font-weight: bold;
 }
 
-span{
+span {
 
   font-weight: bold;
 }
@@ -48,12 +48,7 @@ iframe {
   border: 0;
 }
 
-.home, .home-cats{
-
-  padding: 1vw;
-}
-
-.contact{
+.content-padding {
 
   padding: 1vw;
 }
